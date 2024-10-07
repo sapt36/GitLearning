@@ -10,3 +10,5 @@ git status 檢視目前檔案狀態
 4. Committed (git commit -m "")
 git log 查看歷史紀錄
 git log --oneline 瀏覽單行紀錄(常用 較簡潔)
+修改檔案後 ctrl + S
+git add file / git commit -m ""
